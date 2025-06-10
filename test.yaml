@@ -1,0 +1,8 @@
+name: Test
+author: NulledBird
+description: A test config for Lime development
+modules:
+  - gh:nulledbird/lime/scripts/test.py
+orders:
+  - basic:
+    - test
